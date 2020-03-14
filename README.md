@@ -1,0 +1,1 @@
+# bashscripts just run ./<filename>
