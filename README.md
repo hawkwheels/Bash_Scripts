@@ -1,1 +1,1 @@
-# bashscripts just run ./<filename>
+# bashscripts just run ./assetfinder.sh <domain name>
