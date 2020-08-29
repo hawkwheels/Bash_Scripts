@@ -1,0 +1,2 @@
+#script to find the SSH connection in a bunch of open ports 
+for i in `seq 1 65535`; do echo $i && echo "" | ssh -q -o StrictHostKeyChecking=no <Victim_IP> -p $i; done
